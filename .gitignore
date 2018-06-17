@@ -5,3 +5,6 @@ __pycache__
 
 # ignore api token files so it doesn't end up pubicly shared on github
 #pywhale/*.txt
+*_key.txt
+.gitignore
+Documentation.txt
