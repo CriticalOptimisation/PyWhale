@@ -79,8 +79,8 @@ class PyWhale(Api,General,Live,Turbo):
 		
 		return (True,key)
 
-	
+if __name__ == "__main__":
 		
-pw = PyWhale()
+	pw = PyWhale()
 
 
