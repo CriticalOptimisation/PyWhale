@@ -8,3 +8,9 @@ __pycache__
 *_key.txt
 .gitignore
 Documentation.txt
+pywhale/api_keys/BTC_real_key.txt
+pywhale/api_keys/BTC_demo_key.txt
+pywhale/api_keys/DASH_demo_key.txt
+pywhale/api_keys/DASH_real_key.txt
+pywhale/api_keys/ETH_real_key.txt
+pywhale/api_keys/LTC_real_key.txt
